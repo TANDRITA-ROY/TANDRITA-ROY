@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 👩‍💻 Software Developer at **Hyland**.
-- 💻 Interested in Java, Spring Boot and scalable backend applications.
+- 💻 Experience in Java, Spring Boot and scalable backend applications.
 - 🌱 Exploring Generative AI, LLMs and AI-powered applications.
 - 🤖 Learning Spring AI, LangChain4j, RAG and Vector Databases.
 - 🧠 Passionate about Data Structures, Algorithms and Problem Solving.
